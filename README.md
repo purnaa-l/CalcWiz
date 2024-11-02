@@ -1,11 +1,12 @@
-# CalcWiz
+# CalcWiz!
 
+This little project is my ode to calculus. 
 
-Welcome to **CalcWiz**! 
+Honestly, there isn’t a day that goes by where I don’t think about derivatives, integrals, or the magic of limits. Calculus is just... special. For me, it’s like this perfect balance between beauty and power, taking the chaotic world of curves and slopes and bringing it all together with just a few rules and symbols. The joy of turning messy and stubborn functions into something simple, and sometimes even beautiful. 
 
-I’m a calculus enthusiast who thinks about derivatives and integrals every single day. The elegance and power of calculus fascinates me, and I created this app to make the process of differentiating and integrating functions more accessible and enjoyable for everyone. The very fact that the differntials and integrals are calculated in a second, without those lengthy page scribbles we learnt in Grade 12 does add a note of fun to it. 
+And sure, we’ve all spent pages working through integrations and derivatives by hand, in Grade 12 (Yes?)but there’s something so satisfying about getting to the answer in seconds here, without sacrificing the “a-ha” moments along the way.
 
-If you’re as obsessed with calculus as I am, you’ll find this tool to be your perfect companion for tackling derivatives and integrals with ease. 
+CalcWiz is my way of capturing a bit of that magic, bringing it into a single tool that does what I love most: taking on calculus, one function at a time.
 
 
 ## Features

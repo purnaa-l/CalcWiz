@@ -2,7 +2,7 @@
 
 This little project is my ode to calculus. 
 
-Honestly, there isn’t a day that goes by where I don’t think about derivatives, integrals, or the magic of limits. Calculus is just... special. For me, it’s like this perfect balance between beauty and power, taking the chaotic world of curves and slopes and bringing it all together with just a few rules and symbols. The joy of turning messy and stubborn functions into something simple, and sometimes even beautiful. 
+Honestly, there isn’t a day that goes by where I don’t think about derivatives, integrals, or the magic of limits. Calculus is just... special. For me, it’s like this perfect balance between beauty and power, taking the chaotic world of curves and slopes and bringing it all together with just a few rules and symbols. The joy of turning messy and stubborn functions into something simple, and sometimes even beautiful is pristine. 
 
 And sure, we’ve all spent pages working through integrations and derivatives by hand, in Grade 12 (Yes?)but there’s something so satisfying about getting to the answer in seconds here, without sacrificing the “a-ha” moments along the way.
 
